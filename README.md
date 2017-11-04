@@ -19,4 +19,16 @@ If installation fails with the following error: "‘to_string’ is not a member
 
 Any problems? Raise an issue here on the repo or send me an email ognjengr@gmail.com. 
 
+## Citation
+
+If you find this sofware useful please consider citing it in your publications. You may use the following bibtex type citation entry:
+```
+@Manual{fTree_2017,
+  title  = {fTree, an \proglang{R} package},
+  author = {Ognjen Grujic},
+  year   = {2017},
+  note   = {\proglang{R}~package version~1.0},
+  url    = {https://github.com/ogru/fTree},
+}
+```
 
